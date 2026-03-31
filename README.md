@@ -10,7 +10,6 @@ Step 2: Define the given matrix using a NumPy array.
 Step 3: Using the np.linalg.eig(), we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 Step 4: Display the eigenvalues and eigenvectors in the required format.
 
-
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
